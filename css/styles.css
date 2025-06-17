@@ -1,6 +1,6 @@
 body {
   background-color: grey;
-  background-image: "images/glen-carrie-8xvBmg-Zd8A-unsplash.jpg" alt="background-img" width="500" height="500"
+  margin: 0%;
 }
 
 hr {
@@ -13,8 +13,29 @@ hr {
 
 h1 {
   color: #66BFBF;
+  font-family: "Sacramento", cursive;
+}
+
+h2 {
+  background-color: red;
+  font-family: "Sacramento", cursive;
 }
 
 h3 {
   color: #66BFBF;
 }
+
+.circular {
+  border-radius: 100%;
+}
+
+.top-container {
+  background-color: white;
+}
+
+.middle-container {
+  background-color: #C4E1E6;
+}
+ .bottom-container {
+  background-color: grey;
+ }
