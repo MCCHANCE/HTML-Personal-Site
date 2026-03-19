@@ -20,6 +20,11 @@ hi {
 h3 {
   color: black;
   font-style: oblique;
+  font-family: "Monserrat-Bold";
+}
+
+p {
+  color: #8f8f8f;
 }
 
 /* navigation bar */
@@ -48,4 +53,25 @@ h3 {
 .circular {
   width: 60%;
   transform: rotate(25deg);
+}
+
+/* features-section */
+
+#features {
+  padding: 7% 15%;
+  background-color: #AACDDC;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+.icon {
+  color: #406093;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: red;
 }
