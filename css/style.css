@@ -60,7 +60,8 @@ p {
   transform: rotate(25deg);
   position: absolute;
   padding-bottom: 7%;
-  border-radius: 20%;
+  border-radius: 10%;
+  left: 57%;
 }
 
 /* features-section */
