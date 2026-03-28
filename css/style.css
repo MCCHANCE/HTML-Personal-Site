@@ -123,7 +123,7 @@ a {
 }
 
 /* CTA Section */
-.CTA {
+.cta-section {
   background-color: rgba(0, 0, 0, 0.6);
   color: #fff;
   text-align: center;
@@ -136,4 +136,13 @@ a {
   margin: 10px;
   border-radius: 30px;
   font-weight: bold;
+}
+
+.footer-left {
+  text-align: center;
+  padding: 3% 15%;
+}
+
+.footer-social {
+  text-align: center;
 }
